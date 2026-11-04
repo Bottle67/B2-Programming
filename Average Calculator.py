@@ -7,3 +7,6 @@ Instructor: Burgess
 
 q1 = int(input("Enter a number "))
 print("Your current sum is q1")
+q1 = 5
+print("")
+print("")
